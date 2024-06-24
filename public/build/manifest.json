@@ -1,0 +1,37 @@
+{
+  "resources/images/bs-icons.png": {
+    "file": "assets/bs-icons-BGnOKuWa.png",
+    "src": "resources/images/bs-icons.png"
+  },
+  "resources/images/bs-themes.png": {
+    "file": "assets/bs-themes-DPX8Mg6M.png",
+    "src": "resources/images/bs-themes.png"
+  },
+  "resources/images/laravel.jpg": {
+    "file": "assets/laravel-BJ4XMtJ-.jpg",
+    "src": "resources/images/laravel.jpg"
+  },
+  "resources/images/logo-black.svg": {
+    "file": "assets/logo-black-CMAIDxeN.svg",
+    "src": "resources/images/logo-black.svg"
+  },
+  "resources/images/logo-white.svg": {
+    "file": "assets/logo-white-DZcIajgH.svg",
+    "src": "resources/images/logo-white.svg"
+  },
+  "resources/images/main.svg": {
+    "file": "assets/main-Dhlf5YGp.svg",
+    "src": "resources/images/main.svg"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-BkDPDVeP.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app-D-sv12UV.css",
+    "src": "resources/sass/app.scss",
+    "isEntry": true
+  }
+}
